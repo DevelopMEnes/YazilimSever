@@ -41,10 +41,10 @@ header a:hover {
 .profile {
   text-align: center;
   width: 40%;
-  /* margin: 30px auto; */
+  margin: 30px auto;
 }
 .profile img {
-  /* border-radius: 50%; */
+  border-radius: 50%;
 }
 .profile h3 {
   margin-top: 5px;
