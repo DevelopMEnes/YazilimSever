@@ -41,7 +41,7 @@ header a:hover {
 .profile {
   text-align: center;
   width: 40%;
-  margin: 30px auto;
+  /* margin: 30px auto; */
 }
 .profile img {
   /* border-radius: 50%; */
