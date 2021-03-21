@@ -1,67 +1,63 @@
-@media(max-width:768px){
-    
-    header{
-        flex-wrap: wrap;
-    }
-    .name{
-        left: 2%;
-        font-size: 0.7em;
-    }
-    header a{
-        margin: 0.2rem;
-        padding: 0.4rem;
-        font-size: 0.6em;
-        left: 18%;
-    }
+@media (max-width: 768px) {
+  header {
+    flex-wrap: wrap;
+  }
+  .name {
+    left: 2%;
+    font-size: 0.7em;
+  }
+  header a {
+    margin: 0.2rem;
+    padding: 0.4rem;
+    font-size: 0.6em;
+    left: 18%;
+  }
 
-    .go-yt{
-        width: 80%;
-    }
+  .go-yt {
+    width: 80%;
+  }
 
-    .video{
-        width: 80%;
-    }
+  .video {
+    width: 80%;
+  }
 
-    .profile img{
-        
-        
-        width: 50%;
-        margin:10px auto;
-        
-    }
+  .profile img {
+    width: 50%;
+    margin: 10px auto;
+  }
 
-    .name-label{
-        right: 30vw;
-    }
-    .email-label{
-        margin-top: 15px;
-        right: 28vw;
-    }
-    .message-label{
-        margin-top: 10px;
-        right: 25vw;
-    }
+  .name-label {
+    right: 30vw;
+  }
+  .email-label {
+    margin-top: 15px;
+    right: 28vw;
+  }
+  .message-label {
+    margin-top: 10px;
+    right: 25vw;
+  }
 
-    #user-name{
-        width: 75vw;
-    }
-    #email{
-        width: 75vw;
-    }
+  #name {
+    width: 75vw;
+  }
+  #email {
+    width: 75vw;
+  }
 
-    #message{
-        width: 75%;
-        left: 0;
-    }    
+  #message {
+    width: 75%;
+    left: 0;
+  }
 
-    .submit-btn{
-        width: 75%;
-        left: 0;
-    }
-    .content{
-        flex-direction: column;
-    }
-    .box{
-        margin-bottom: 10px;
-    }
+  .submit-btn {
+    width: 75%;
+    left: 0;
+  }
+  .content {
+    flex-direction: column;
+  }
+  .box {
+    margin-bottom: 10px;
+  }
 }

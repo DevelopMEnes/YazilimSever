@@ -127,7 +127,7 @@ header a:hover {
   margin: 0px auto;
   width: 200px;
 }
-#user-name,
+#name,
 #email {
   background-color: #d6f1ff;
   color: #010e24;
@@ -188,11 +188,15 @@ header a:hover {
 }
 .swiper-slide.swiper-slide.swiper-slide-prev,
 .swiper-slide.swiper-slide.swiper-slide-next {
-  opacity: .6;
+  opacity: 0.6;
 }
 
 .swiper-container .swiper-pagination {
   background-color: #5e676b;
   border-radius: 3%;
   overflow: hidden;
+}
+
+.thankyou_message {
+  margin-bottom: 5px;
 }
