@@ -75,13 +75,9 @@ header a:hover {
   margin-top: 10px;
   width: 100vw;
   background-color: #0d5378;
-  display: flex;
-  padding-top: 20px;
-  padding-bottom: 35px;
 }
 .box {
   text-align: center;
-  margin: 0.33em;
   color: white;
 }
 .box h3 a {
@@ -105,10 +101,6 @@ header a:hover {
 }
 
 .video {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 10px;
   width: 32%;
   border: none;
 }
@@ -171,4 +163,18 @@ header a:hover {
 }
 .submit-btn:hover {
   background-color: rgb(167, 157, 157);
+}
+
+.swiper-container {
+  width: 650px;
+  height: 500px;
+}
+.swiper-wrapper {
+  width: 650px;
+  height: 500px;
+}
+.swiper-slide {
+  background-color: #010e24;
+  width: 650px;
+  height: 500px;
 }
